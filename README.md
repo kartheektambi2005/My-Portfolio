@@ -81,7 +81,7 @@ Skills are listed in `skillGroups` in the same file. Add or remove strings, or a
 
 ## Deploy with GitHub Pages
 
-1. Create a repository, for example `portfolio`, and push these files to the root of the `main` branch:
+1. Create a repository, for example `My-Portfolio`, and push these files to the root of the `main` branch:
 
    ```bash
    git init
@@ -100,7 +100,7 @@ Skills are listed in `skillGroups` in the same file. Add or remove strings, or a
    ```
 
    ```bash
-   git remote add origin https://github.com/kartheektambi2005/portfolio.git
+   git remote add origin https://github.com/kartheektambi2005/My-Portfolio.git
    ```
 
    ```bash
@@ -109,7 +109,7 @@ Skills are listed in `skillGroups` in the same file. Add or remove strings, or a
 
 2. On GitHub, open **Settings → Pages**.
 3. Under **Build and deployment**, choose **Deploy from a branch**, then select `main` and `/ (root)`, then **Save**.
-4. After a minute or two, the site is live at `https://kartheektambi2005.github.io/portfolio/`.
+4. After a minute or two, the site is live at `https://kartheektambi2005.github.io/My-Portfolio/`.
 
    To serve it at `https://kartheektambi2005.github.io/` instead, name the repository `kartheektambi2005.github.io`.
 
